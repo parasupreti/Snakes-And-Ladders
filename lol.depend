@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1431427490 source:c:\temp\delete\prog\lol\lol.cpp
+	<stdio.h>
+	<graphics.h>
+	<dos.h>
+	<stdlib.h>
+
+1266061814 c:\program files (x86)\codeblocks-simplecpp\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1429988222 source:c:\temp\delete\prog\lol\bhadwa.cpp
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1430650644 source:c:\temp\delete\prog\lol\untitled1.c
+
+1429988222 source:g:\snakes and ladders\bhadwa.cpp
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1431427490 source:g:\snakes and ladders\lol.cpp
+	<stdio.h>
+	<graphics.h>
+	<dos.h>
+	<stdlib.h>
+
+1430650644 source:g:\snakes and ladders\untitled1.c
+
